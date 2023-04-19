@@ -1,6 +1,6 @@
 <template>
   <UserRepositories :user="'@francoder_'"/>
-  <Home></Home>
+  <Home :first-name="'Santy'" :last-name="'Gil'"></Home>
 </template>
 
 <script>
