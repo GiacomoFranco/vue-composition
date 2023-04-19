@@ -1,5 +1,5 @@
 <template>
-    <div>{{ user }}</div>
+    <h1>{{ user }}</h1>
 </template>
 
 <script>
